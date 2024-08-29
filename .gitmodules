@@ -1,9 +1,3 @@
-[submodule "alexanderdeprez/themes/themes/hugo-bearcub"]
-	path = alexanderdeprez/themes/themes/hugo-bearcub
-	url = https://github.com/clente/hugo-bearcub
-[submodule "alexanderdeprez/themes/hugo-bearcub"]
-	path = alexanderdeprez/themes/hugo-bearcub
-	url = https://github.com/clente/hugo-bearcub
 [submodule "alexanderdeprez/themes/LoveIt"]
 	path = alexanderdeprez/themes/LoveIt
 	url = https://github.com/dillonzq/LoveIt.git
