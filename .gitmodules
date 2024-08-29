@@ -1,3 +1,7 @@
 [submodule "alexanderdeprez/themes/LoveIt"]
 	path = alexanderdeprez/themes/LoveIt
 	url = https://github.com/dillonzq/LoveIt.git
+[submodule "correct"]
+	path = alexanderdeprez/public
+	url = git@github.com:Aldetux/alexanderdeprez.net.git
+	branch = main
