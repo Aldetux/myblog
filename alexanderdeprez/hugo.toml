@@ -80,6 +80,7 @@ googleAnalytics = ["G-4WVW1QLB9J"]
     hugo = false
     copyright = true
     since = 2024
+    until = 2025
   [params.app]
     title = "Aldetux"
   [params.analytics]

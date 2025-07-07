@@ -3,7 +3,8 @@
 
 Hi there! Welcome to my corner of the internet.
 
-I’m Alexander,a "young" man trying to figure out this whole life thing. I’m a passionate IT professional, a father, and a husband. I’m on a journey finding balance between work, family, and personal health and this site is where I’ll be sharing my thoughts on all of that and more.
+I'm Alexander, a "young" father and husband, a passionate IT professional, and a furry thieving and murdering scumbag. Though that last part applies only to my current DnD character. In life, I'm a gentle giant.
+
 
 
 ## A Little About Me
@@ -16,19 +17,14 @@ I grew up in a small rural village in Belgium, coming from a working-class famil
 I started this blog for several reasons:
 
 - **An Outlet and Practice Ground:** Writing has always been something I wanted to do more of. This blog is my practice ground, a place to put my thoughts into words, and a way to get better at it.
-- **Accountability:** By sharing my journey here, I’m hoping to stay accountable. It’s easier to stick to your goals when you know others are watching.
-- **Inspiration for Others:** I hope to inspire other people who are also trying to figure out this whole life thing. It’s not easy, and no one has all the answers, but we can learn from each other.
+- **Sharing:** I have learned so much from others who shared their experiences online. I hope to give back by sharing my own experiences and thoughts.
+- **Connection:** I hope to connect with others who share similar interests or experiences. I believe that sharing our stories can help us feel more connected to one another.
 
 ## What You’ll Find Here
 
- You’ll find posts about tech, fatherhood, health, and the occasional philosophical musing on life. It’s a mixed bag, but so is life, right?
+ You’ll find posts primarily about tech. Not always pure technial articles but more often some philosophical musing. But this might turn into something else as well. I’m also a father, a husband, and a human being with a wide range of interests, so you might find posts about those topics too.
 
-
-## The Future of This Blog
-
-Honestly, I’m still figuring out what this blog will become, just like I’m figuring out fatherhood and life. But that’s part of the journey, and I’m excited to see where it goes.
-
-Thanks for stopping by, and I hope you find something here that resonates with you.
+Thanks for stopping by, and I hope you find something here that resonates with you. Feel free to reach out if you have any questions or just want to chat.
 
 
 
